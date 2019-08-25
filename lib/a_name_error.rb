@@ -1,3 +1,3 @@
-"hello world"
+c = "hello world"
 
-hello_world
+x = "hello_world"
